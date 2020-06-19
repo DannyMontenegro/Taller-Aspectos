@@ -1,8 +1,13 @@
-# Taller-Aspectos
-#Captura Aspecto Prueba
 
-<img src="SimpleBank/src/capturas/AspectoPrueba.jpg">
+# Taller de paradigma orientado a aspectos (AOP)
 
-#Captura Aspecto Taller
+## Integrantes Gupo #2:
 
-<img src="SimpleBank/src/capturas/AspectoTaller.jpg">
+- Danny Montenegro.
+
+- Aron Caballero.
+
+Captura Aspecto Prueba | Captura Aspecto Taller
+:---:|:---:
+![one](SimpleBank/src/capturas/AspectoPrueba.jpg) | ![two](SimpleBank/src/capturas/AspectoTaller.jpg)
+
